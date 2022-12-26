@@ -1,5 +1,7 @@
 SOBRE O PROJETO
-559212e
+
+
+
 • Árvores AVL
  Elaborar a implementação do algoritmo (em Java) pedido no “Desafio 1” do item “Aula 05”, slide 33, disponível na aba “Conteúdo” do curso “Estruturas de Dados II ”, no BlackBoard. São os mesmos slides usados em aula.
 
